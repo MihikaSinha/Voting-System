@@ -1,0 +1,15 @@
+The election results are:
+The number of votes recieved by Rahul Verma is 2
+The number of votes recieved by Shreya Mahesh is 1
+The number of votes recieved by Dinesh Dhobi is 0
+The number of votes recieved by Arpita Mohante is 1
+The election results are:
+The number of votes recieved by Rahul Verma is 0
+The number of votes recieved by Shreya Mahesh is 0
+The number of votes recieved by Dinesh Dhobi is 1
+The number of votes recieved by Arpita Mohante is 0
+The election results are:
+The number of votes recieved by Rahul Verma is 0
+The number of votes recieved by Shreya Mahesh is 1
+The number of votes recieved by Dinesh Dhobi is 0
+The number of votes recieved by Arpita Mohante is 0
